@@ -16,6 +16,7 @@ PUT     /events/:id                          : Updates an event
 DELETE  /events/:id                          : Deletes an event based on its Unique Id 
 </pre>
 
+## API DOcumentation https://docs.google.com/document/d/1V1Jyrg0eGCBnIdhmUyuLkLmeOSTCW6_LXYoN7tCPZ6U/edit?usp=sharing
 ## How to run
 
 Tu run the API
